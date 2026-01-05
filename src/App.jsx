@@ -85,3 +85,8 @@ const App = () => {
 };
 
 export default App;
+<div className="mt-8 text-center animate-pulse">
+  <p className="text-red-600 font-bold text-xl">
+    ВЕКНА, МЫ ТЕБЯ ВИДИМ. КЛУБ АДСКОГО ПЛАМЕНИ ЗДЕСЬ.
+  </p>
+</div>
